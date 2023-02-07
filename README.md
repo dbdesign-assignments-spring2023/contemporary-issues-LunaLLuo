@@ -1,4 +1,4 @@
-#Big Data Surveillance in China during the pandemic: a good tool for COVID-19 prevention or for autocracy
+# Big Data Surveillance in China during the pandemic: a good tool for COVID-19 prevention or for autocracy
 In this document, I discuss two articles about Big Data surveillance in China during the pandemic period, as well as the claims made by different groups of people. One believes that the big data surveillance is used to enforce the management power of Chinese government, which is potentially harmful for the citizens, the other people suggests that the big data is beneficial since it helps to prevent the spreading of COVID-19.
 
 
